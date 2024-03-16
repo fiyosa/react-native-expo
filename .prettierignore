@@ -1,0 +1,11 @@
+node_modules
+vendor
+coverage
+
+# Expo
+.expo/
+dist/
+web-build/
+
+*.lock
+*lock.json
